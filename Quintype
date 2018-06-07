@@ -1,0 +1,5 @@
++name = "Quintype"
++description = "API driven content management system built to the needs of the modern publishers and content creators."
++url = "https://www.quintype.com/"
++github_repo = "/Quintype"
++language = "React.js"
